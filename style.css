@@ -1,0 +1,11 @@
+body {
+  height: 6000px;
+}
+
+#hj {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transition: all 0.7s;
+  opacity: 0.4;
+}
